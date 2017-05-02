@@ -1,0 +1,28 @@
+{
+  "name": "rellat-beaver",
+  "version": "0.0.1",
+  "description": "Rellat Alpha with WebSocket. Simple Collaborative Code editor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rellat",
+    "code",
+    "editor",
+    "websocket"
+  ],
+  "author": "Chase Lee",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3",
+    "y-array": "^10.0.6",
+    "y-leveldb": "0.0.1",
+    "y-map": "^10.0.5",
+    "y-richtext": "^9.0.8",
+    "y-text": "^9.4.0",
+    "y-websockets-client": "^8.0.15",
+    "y-websockets-server": "^9.2.0"
+  }
+}
