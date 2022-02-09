@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.2",
-    "socket.io": "^1.7.3",
+    "socket.io": ">=2.4.0"
     "y-array": "^10.0.6",
     "y-leveldb": "0.0.1",
     "y-map": "^10.0.5",
